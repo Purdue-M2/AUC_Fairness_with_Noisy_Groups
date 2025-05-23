@@ -1,4 +1,3 @@
-# AUC_Fairness_with_Noisy_Groups
 # Preserving AUC Fairness in Learning with Noisy Protected Groups
 ---
 
