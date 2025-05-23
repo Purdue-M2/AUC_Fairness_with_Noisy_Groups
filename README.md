@@ -12,6 +12,7 @@ cd AUC-Fairness-Noisy
 conda create -n FairnessNoisy python=3.9.0
 conda activate FairnessNoisy
 pip install -r requirements.txt
+```
 
 ## 2. Dataset Preparation
 
@@ -54,6 +55,7 @@ python train_images.py
 --backbone: default is 'efficientnetb4'
 --pho: learning parameter for SAM, default is 0.5
 --ratio: noise ratio, default is 0.02
+```
 
 For tabular datasets:
 
@@ -68,11 +70,13 @@ python train_tabular.py
 --method: ours is 'auc'
 --dataset: training dataset name: default.
 --ratio: noise ratio, default is 0.02
-
+```
 
 
 ## 5. Test
 For model testing, we provide a python file to test our model by running python test.py.
+
+```bash
 --checkpoints : /path/to/saved/model.pth
 --model: 'auc_effinet'
 --device: gpu ids for training.
@@ -82,4 +86,5 @@ For model testing, we provide a python file to test our model by running python 
 --savepath : /where/to/save/predictions.npy(labels.npy)/results/
 --model_structure : backbone: auc_effinet.
 --test_batch_size : testing batch size: default is 32.
+```
 
