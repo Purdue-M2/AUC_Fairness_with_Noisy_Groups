@@ -27,6 +27,7 @@ Alternatively, you can download these datasets from their official sources and p
 - **Extract, align, and crop faces** using [DLib](https://www.jmlr.org/papers/volume10/king09a/king09a.pdf), and save them to:
   ```bash
   /path/to/cropped_images/
+  ```
 - **Split cropped images into train/val/test with a ratio of 60%/20%/20%, ensuring no identity overlap.
 
 ## 3. Load Pretrained Weights
