@@ -1,4 +1,5 @@
 # Preserving AUC Fairness in Learning with Noisy Protected Groups
+Mingyang Wu, Li Lin, Wenbin Zhang, Xin Wang, Zhenhuan Yang, Shu Hu
 ---
 
 This repository is the official implementation of our paper **"Preserving AUC Fairness in Learning with Noisy Protected Groups"**, which has been accepted by ICML 2025.
