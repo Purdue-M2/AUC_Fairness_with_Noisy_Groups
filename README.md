@@ -1,7 +1,7 @@
 # Preserving AUC Fairness in Learning with Noisy Protected Groups
 ---
 
-This repository is the official implementation of our paper **"Preserving AUC Fairness in Learning with Noisy Protected Groups"**.
+This repository is the official implementation of our paper **"Preserving AUC Fairness in Learning with Noisy Protected Groups"**, which has been accepted by ICML 2025.
 
 ## 1. Installation
 
