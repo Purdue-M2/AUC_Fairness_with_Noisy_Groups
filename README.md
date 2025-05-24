@@ -90,3 +90,7 @@ For model testing, we provide a python file to test our model by running python 
 --test_batch_size : testing batch size: default is 32.
 ```
 
+## Citation
+Please kindly consider citing our papers in your publications.
+
+
