@@ -34,7 +34,7 @@ Alternatively, you can download these datasets from their official sources and p
 ## 3. Load Pretrained Weights
 
 Before running the training code, make sure you load the **pre-trained weights**. We provide pre-trained weights under  
-`./training/pretrained`. You can also download the **Xception model** trained on ImageNet (through this [link](#)) or use your own pretrained **Xception**.
+[pretrained](https://drive.google.com/drive/folders/1mqTiQ14pyXeLDX1EUibnqP2EWE-504oY?usp=sharing). You can also download the **Xception model** trained on ImageNet (through this [link](#)) or use your own pretrained **Xception**.
 
 ---
 
