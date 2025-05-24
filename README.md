@@ -93,4 +93,12 @@ For model testing, we provide a python file to test our model by running python 
 ## Citation
 Please kindly consider citing our papers in your publications.
 
+```
+@inproceedings{wu2025preserving,
+  title={Preserving auc fairness in learning with noisy protected groups},
+  author={Wu, M and Lin, L and Zhang, W and Wang, X and Yang, Z and Hu, S},
+  booktitle={The 42nd International Conference on Machine Learning (ICML)},
+  year={2025}
+}
+```
 
